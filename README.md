@@ -1,5 +1,5 @@
 # Analyse multidimensionnelle des preferences, et applications aux donnees de vote
-> Auteurs : AHCOURI Sira Lina, CAMPAN Ina et ROGIE Ida Ida Rogie
+> Auteurs : Ida Rogie, Ina Campan et Sira Lina Achouri
 > 
 > Encadrant : Olivier Spanjaard
 > 
@@ -112,5 +112,4 @@ stv411.csv
 Un **_tau_** 0 indique une representation parfaite et donnees; ainsi un tau egal a 1 indique un dessacord complet entre les preference initiales et celles obtenues a partir de la representation sur le plan.
 
 ## VI. Bibliographie
-+ [A multidimensional spatial model for preference representation in multi-criteria decision aiding](https://hal.science/hal-03782818/file/A_KHANNOUSSI_et_al_Multidimensional_spatial_model.pdf)# -LU2IN013-
-Analyse multidimensionnelle des preferences, et applications aux donnees de vote
++ [A multidimensional spatial model for preference representation in multi-criteria decision aiding](https://hal.science/hal-03782818/file/A_KHANNOUSSI_et_al_Multidimensional_spatial_model.pdf)
